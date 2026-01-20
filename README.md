@@ -1,15 +1,13 @@
 ![MasterHead](https://raw.githubusercontent.com/mhardik003/mhardik003/main/gifs/mario.gif)
 
 <h1 align="center">Hi 👋, I'm Hamza SIVACI</h1>
-<h3 align="center">A passionate software developer from Türkiye</h3>
+<h3 align="center">Synthesizing clean code with a chemist's precision at 42</h3>
 
 - 🔭 I’m currently working on **cub3D**
 
-- 📫 How to reach me **hmz.sivaci@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/hamzasivaci" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hamza sivaci" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/hamza-sıvacı" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hamza sivaci" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
