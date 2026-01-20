@@ -3,6 +3,8 @@
 <h1 align="center">Hi 👋, I'm Hamza SIVACI</h1>
 <h3 align="center">Synthesizing clean code with a chemist's precision at 42</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hmzsvc&label=Profile%20views&color=0e75b6&style=flat" alt="hmzsvc" /> </p>
+
 - 🔭 I’m currently working on **cub3D**
 
 <h3 align="left">Connect with me:</h3>
