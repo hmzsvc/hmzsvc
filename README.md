@@ -1,4 +1,4 @@
-[![MasterHead](https://raw.githubusercontent.com/mhardik003/mhardik003/main/gifs/mario.gif)
+![MasterHead](https://raw.githubusercontent.com/mhardik003/mhardik003/main/gifs/mario.gif)
 
 <h1 align="center">Hi 👋, I'm Hamza SIVACI</h1>
 <h3 align="center">A passionate software developer from Türkiye</h3>
